@@ -35,8 +35,8 @@ $$      $$$     '''    $   c$$$cc$$$c     "$$c.    "$$     $$""""
 
                                                                     
 ```lua
-print(ascii("RIFT")) -- default font is "standard"
-print(ascii("RIFT", "doom.flf")) -- .flf is optional 
+print(ascii("hi")) -- default font is "standard"
+print(ascii("hey", "doom.flf")) -- .flf is optional 
 print(ascii("HELLO", "C64-fonts/1943____"))
 ```
 
