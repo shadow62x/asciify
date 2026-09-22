@@ -69,6 +69,3 @@ ascii.clearcache() -- clears the currently cached fonts
 
 ## You can find all available fonts [here](https://github.com/shadow62x/asciify/tree/main/Fonts)
 
-### Or use "ascii.fonts()" in Roblox
-
-#### The font i used is Cosmike 2 ;)
