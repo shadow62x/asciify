@@ -25,14 +25,14 @@ MMM     MMM     YM     "YMmMY"         MMM        YMM   \"\"`   """"YUMMM   """"
 local ascii = loadstring(game:HttpGet("https://raw.githubusercontent.com/shadow62x/asciify/main/asciify.lua"))()
 ```
 
-
+```text
  ...    :::    .::::::.      :::.           .,-:::::/     .,::::::  
  ;;     ;;;   ;;;`    `      ;;`;;        ,;;-'````'      ;;;;''''  
 [['     [[[   '[==/[[[[,    ,[[ '[[,      [[[   [[[[[[/    [[cccc   
 $$      $$$     '''    $   c$$$cc$$$c     "$$c.    "$$     $$""""   
 88    .d888    88b    dP    888   888      `Y8bo,,,o88o    888oo,__ 
  "YmmMMMM""     "YMmMY"     YMM   \"\"`      `'YMUP"YMM    """"YUMMM
-
+```
 
                                                                     
 ```lua
@@ -49,7 +49,7 @@ print(ascii("HELLO", "C64-fonts/1943____"))
 c$$$cc$$$c        $$$""       $$$
  888   888        888o        888
  YMM   \"\"`      YMMMb       MMM
-                                 ```
+```                                 
                                  
 ```lua
 ascii("text", "font") -- returns text as ASCII
@@ -66,7 +66,7 @@ ascii.clearcache() -- clears the currently cached fonts
  888       "888,_ _,88P     888    Y88        88,        88b    dP
  "MM,        "YMMMMMP"      MMM     YM        MMM         "YMmMY" 
                                                                   
-                                                                  ```
+```
 
 ## You can find all available fonts [here](https://github.com/shadow62x/asciify/tree/main/Fonts)
 
