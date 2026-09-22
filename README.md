@@ -34,7 +34,7 @@ $$      $$$     '''    $   c$$$cc$$$c     "$$c.    "$$     $$""""
 
 
                                                                     
-```
+```lua
 print(ascii("RIFT")) -- default font is "standard"
 print(ascii("RIFT", "doom.flf")) -- .flf is optional 
 print(ascii("HELLO", "C64-fonts/1943____"))
@@ -50,7 +50,7 @@ c$$$cc$$$c        $$$""       $$$
  YMM   \"\"`      YMMMb       MMM
                                  
                                  
-```
+```lua
 ascii("text", "font") -- returns text as ASCII
 ascii.setfont("doom") -- sets the default font
 ascii.fonts() -- lists all fonts
@@ -67,7 +67,7 @@ ascii.clearcache() -- clears the currently cached fonts
                                                                   
                                                                   
 
-## You can find all available fonts ""here""(https://github.com/shadow62x/asciify/tree/main/Fonts)
+## You can find all available fonts [here](https://github.com/shadow62x/asciify/tree/main/Fonts)
 
 ### Or use "ascii.fonts()" in Roblox
 
