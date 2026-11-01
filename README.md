@@ -7,9 +7,10 @@ c$$$cc$$$c       '''    $   $$$            $$$   $$$   `$$$"``         c$$"
  YMM   \"\"`     "YMmMY"      "YUMMMMMP"   MMM   MMM    "MM,        mM"        
                                                                                
                                                                                
-```                                                                               
-# Turn any text into ASCII in luau with 600+ fonts! 
-
+```
+```text                                                                           
+Turn any text into ASCII in luau with 600+ fonts! 
+```
 ```text
 
 :::   :::.    :::.    .::::::.    ::::::::::::     :::.          :::         :::     
@@ -68,5 +69,5 @@ ascii.clearcache() -- clears the currently cached fonts
                                                                   
 ```
 
-## You can find all available fonts [here](https://github.com/shadow62x/asciify/tree/main/Fonts)
+ You can find all available fonts [here](https://github.com/shadow62x/asciify/tree/main/Fonts)
 
